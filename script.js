@@ -6,7 +6,8 @@
             { src: 'src/assets/photo3.jpg', caption: 'Adventures and memories we create ✨' },
             { src: 'src/assets/photo4.jpg', caption: 'Special occasions made sweeter with you 🎂' },
             { src: 'src/assets/photo5.jpg', caption: 'Every day is brighter with your smile 😊' },
-            { src: 'src/assets/photo1.jpg', caption: 'Forever grateful for you 💝' } // Placeholder 6th photo
+            { src: 'src/assets/photo1.jpg', caption: 'Forever grateful for you 💝' } 
+            { src: 'src/assets/62cdf32f-427c-44e1-83a9-a1e362967fa3.jpg', caption: 'Fashion young lady 💝' } 
         ];
 
         // ========== VARIABLES ==========
